@@ -1,0 +1,9 @@
+{
+  "name": "kalanciyam",
+  "version": "0.0.0",
+  "license": "RSK",
+  "private": true,
+  "dependencies": {
+    "bower": "1.8.2"
+  }
+}
